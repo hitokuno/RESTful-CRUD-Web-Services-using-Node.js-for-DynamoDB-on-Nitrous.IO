@@ -1,4 +1,4 @@
-RESTful CRUD Web Services for DynamoDB on [Nitrous.IO](https://www.nitrous.io/)
+RESTful CRUD Web Services using Node.js for DynamoDB on [Nitrous.IO](https://www.nitrous.io/)
 =====================
 
 Very simple CRUD RESTful Web Service for DynamoDB on Nitrous.IO.  
